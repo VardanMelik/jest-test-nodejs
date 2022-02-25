@@ -1,0 +1,23 @@
+{
+    "name": "jest-test-nodejs",
+    "version": "1.0.0",
+    "description": "jest-test-nodejs",
+    "main": "index.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/VardanMelik/jest-test-nodejs.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/VardanMelik/jest-test-nodejs/issues"
+    },
+    "homepage": "https://github.com/VardanMelik/jest-test-nodejs#readme",
+    "devDependencies": {
+        "jest": "^27.5.1"
+    }
+}
